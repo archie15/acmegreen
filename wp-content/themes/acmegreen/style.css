@@ -1,0 +1,92 @@
+/*
+Theme Name: ACME Green
+Text Domain: acmegreen
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: 
+Author URI: 
+Theme URI: 
+License:
+*/
+
+
+.skip-link {display:none;}
+
+.o-slider-textWrap {display:none !important;}
+
+.woocommerce ul.products li{background:#FFFFFF;}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {padding: .5em; font-weight: 400; font-size: 16px; letter-spacing: -0.015em; color: #69BA15; padding: 5px 5px 0 5px; margin: 0;}
+
+.woocommerce ul.products li.product .price {font-style: normal;
+			font-weight: 500;
+			font-size: 12px;
+			letter-spacing: -0.015em;
+			color: #515151;
+			padding:0 5px 0 5px;
+			margin-bottom: .5rem;}
+			
+li.featured a.product_type_simple {display:none;}	
+
+a p.product-description {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 12px;
+	letter-spacing: -0.015em;
+	color: #515151;
+	padding:0 5px 0 5px;
+	margin-bottom: .5rem;
+}	
+
+
+.main-content article.product {margin:0 auto;}
+
+.woocommerce-Tabs-panel h2 {
+	font-weight: 500;
+	font-size: 22px;
+	letter-spacing: -0.015em;
+	color: #FFFFFF;			
+	padding:5px 5px 0 5px;
+	margin: 0;
+}
+
+.woocommerce-Tabs-panel p {
+	padding:5px 25px;
+}
+
+.related h2 {
+	font-weight: 500;
+	font-size: 22px;
+	letter-spacing: -0.015em;
+	color: #FFFFFF;			
+	padding:5px 5px 0 5px;
+	margin: 20px 0;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    color: #515151 !important;
+}	
+
+.woocommerce div.product form.cart .button {
+	background-color: #69BA15;
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 10px;
+    border-radius: 0;
+}
+
+.woocommerce .quantity .qty {
+    padding: 8px;
+}
+
+.woocommerce-cart-form {background: #FFFFFF; color: #333333;}

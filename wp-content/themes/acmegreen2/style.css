@@ -1,0 +1,18 @@
+/*
+Theme Name: ACME Green
+Text Domain: acmegreen
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: 
+*/
+
+
+
+html,
+body {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
