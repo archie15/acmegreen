@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'acmegreen' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'root' ); 
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '' );
